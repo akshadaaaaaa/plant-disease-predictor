@@ -16,3 +16,9 @@ This Streamlit app predicts whether a plant is likely to have a disease based on
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 🌿 Live Demo
+
+![App Screenshot](Screenshot 2025-07-10 at 13.14.21)
+
+👉 [Click here to try it out](https://plant-disease-predictor-3w4sytqbe3d3a6s3appwzfx.streamlit.app)
